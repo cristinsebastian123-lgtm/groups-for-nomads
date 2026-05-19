@@ -5712,3 +5712,18 @@ groups:
       - "dahab"
       - "social"
       - "events"
+      
+- name: "Girls Brunch Group of Buenos Aires"
+  platform: "whatsapp"
+  url: "https://chat.whatsapp.com/E7VWqDApLBBF7Heh5O2hXL"
+  locations:
+    - continent: "South America"
+      country_id: "TH"
+      city: "Buenos Aires"
+      region: "Buenos Aires"
+  language_id: "en"
+  commercial: false
+  tags:
+    - "social"
+    - "meetups"
+    - "friendly"
